@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '28d5e88cb52049239585cf9190652d21',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Xingbo's blog',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://bronzed-growth-5cb.notion.site/John-s-tech-info-products-28d5e88cb52049239585cf9190652d21',
   author: 'Xingbo(Allen) Jia',
 
   // open graph metadata (optional)
